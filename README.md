@@ -22,4 +22,17 @@ npm run start
 npm run test
 ```
 
-# API
+## API
+Todas las peticiones realizadas para consumir la API actualmente deben ser realizadas mediante método GET. Las direcciones son las siguientes:
+- Para obtener el listado de todos los productos.
+```bash
+/api/products
+```
+- Para obtener el detalle de un producto.
+```bash
+/api/products/:code
+```
+- Para hacer el checkout de todos los productos.
+```bash
+/api/products/checkout
+```
