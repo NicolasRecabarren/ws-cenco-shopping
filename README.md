@@ -36,3 +36,4 @@ Todas las peticiones realizadas para consumir la API actualmente deben ser reali
 ```bash
 /api/products/checkout
 ```
+*Adicionalmente se adjunta collection de Postman para realizar las pruebas.
